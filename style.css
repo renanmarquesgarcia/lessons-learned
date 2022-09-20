@@ -18,3 +18,13 @@ body{
     margin-left: 20px;
     margin-top: 30px;    
 }
+
+.sub-title{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+.lists{
+    display: flex;
+}
