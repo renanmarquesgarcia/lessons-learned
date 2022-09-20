@@ -1,5 +1,7 @@
 *{
-    margin: 0; }
+    margin: 0;
+    padding: 0;
+    border: 0; }
 
 body{
     background-color: rgb(253, 251, 251); }
@@ -18,8 +20,19 @@ body{
 .sub-title{
     margin-top: 20px;
     margin-left: 30px; }
-    
 
+.lists{
+    margin-left: 50px;
+}
+ 
+.lists ol, ul{
+    display: inline-block;
+    margin-right: 40px;
+ }
+
+.licoes-aprendidas{
+    margin
+}
 
 
 
