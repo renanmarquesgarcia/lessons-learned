@@ -7,11 +7,11 @@ body{
     background-color: rgb(253, 251, 251); }
 
 #cabecalho{
+    
     top: 0;
     text-align: center; 
-    position: fixed;
     background-color: green;
-    padding: 50px; }
+    padding: 70px; }
 
 #minha_foto{
     width: 200px;
@@ -27,8 +27,8 @@ body{
 }
  
 .lists ol, ul{
-    display: inline-block;
-    margin-right: 40px;
+    display: inline-block;    
+    margin-right: 60px;
  }
 
 
