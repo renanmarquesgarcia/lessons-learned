@@ -8,8 +8,8 @@ body{
     background-color: rgb(253, 251, 251); }
 
 h1, h2, h3 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
-}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
 #cabecalho{
     position:fixed;
@@ -33,34 +33,48 @@ h1, h2, h3 {
  
 .lists ol, ul{
     display: inline-block;    
-    margin-right: 60px; }
+    margin-right: 60px;
+    line-height: 30px; }
     
-.table {
+.table{
     border-collapse: collapse;
     width: 20%;    
     margin: auto;
     margin-top: 30px;
-    margin-bottom: 30px;
-}
+    margin-bottom: 30px; }
 
 td, th{
     border: 1px solid black;
     text-align: center;
-    padding: 8px;
-}
+    padding: 8px; }
+
+td a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white; }
+
+
+#w3schools a{    
+    background-color: green; }
+
+#stackoverflow a{    
+    background-color: orange; }
+
+#MDN a{    
+    background-color: black; }
 
 .lado-esquerdo{    
-    float: left;
+    float: left;    
     width: 35%;
     margin-left: 10%;
-}
+    line-height: 20px; }
 
 .lado-direito{    
     float: right;
     width: 35%;
-    margin-right: 10%; }    
+    margin-right: 10%; 
+    line-height: 20px; } 
 
 #rodape{
     clear: both;
-    padding: 50px;
-}
+    padding: 50px; }
