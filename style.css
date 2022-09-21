@@ -7,6 +7,10 @@
 body{
     background-color: rgb(253, 251, 251); }
 
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
 #cabecalho{
     position:fixed;
     top: 0;    
@@ -20,36 +24,41 @@ body{
     margin-top: 50px; }    
 
 #minha_foto{
-    width: 200px;
-    margin-left: 20px;
+    width: 200px;    
     margin-top: 200px; }
 
-.sub-title{
-    margin-top: 20px;
-    margin-left: 30px; }
+.lessons{
+    margin-top: 60px; }
 
-.lists{
-    margin-left: 50px; }
  
 .lists ol, ul{
     display: inline-block;    
-    margin-right: 60px; }  
-
-.trybe{
-    background-color: orange;
+    margin-right: 60px; }
     
+.table {
+    border-collapse: collapse;
+    width: 20%;    
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
 }
 
 .lado-esquerdo{    
     float: left;
     width: 35%;
-    margin: auto;
+    margin-left: 10%;
 }
 
 .lado-direito{    
     float: right;
     width: 35%;
-    margin-right: 30px; }    
+    margin-right: 10%; }    
 
 #rodape{
     clear: both;
