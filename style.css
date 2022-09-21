@@ -1,7 +1,8 @@
 *{
-    margin: 0;
+    margin:0;
     padding: 0;
-    border: 0; }
+    border: 0;
+    text-align: center; }
 
 body{
     background-color: rgb(253, 251, 251); }
@@ -32,10 +33,25 @@ body{
  
 .lists ol, ul{
     display: inline-block;    
-    margin-right: 60px; }
+    margin-right: 60px; }  
 
-
-
-
-
+.trybe{
+    background-color: orange;
     
+}
+
+.lado-esquerdo{    
+    float: left;
+    width: 35%;
+    margin: auto;
+}
+
+.lado-direito{    
+    float: right;
+    width: 35%;
+    margin-right: 30px; }    
+
+#rodape{
+    clear: both;
+    padding: 50px;
+}
