@@ -1,5 +1,6 @@
 # Repositório do projeto de Lições Aprendidas!
-Este é meu primeiro projeto desenvolvido na Trybe, nele aplico os conhecimentos básicos de html e css para construção de uma página simples
+Este é meu primeiro projeto desenvolvido na Trybe, nele aplico os conhecimentos básicos de html e css para construção de uma página simples.
+O site está disponível em: `https://renanmarquesgarcia.github.io/lessons-learned/`
 
 # Orientações
   
